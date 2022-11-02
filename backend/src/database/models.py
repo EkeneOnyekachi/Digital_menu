@@ -11,7 +11,7 @@ db = SQLAlchemy()
 
 """
 setup_db(app)
-    binds a flask application and a SQLAlchemy service
+    binds a flask application and the SQLAlchemy service
 """
 
 
